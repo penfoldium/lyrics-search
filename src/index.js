@@ -128,7 +128,7 @@ class Response {
             hot: result.stats.hot,
 
             /** @type {number} */
-            pageviews = result.stats.pageviews
+            pageviews: result.stats.pageviews
         }
 
         /** 
