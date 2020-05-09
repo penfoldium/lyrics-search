@@ -168,7 +168,7 @@ class Response {
             image: result.primary_artist.image_url,
 
             /** @type {boolean} */
-            memeVerified = result.primary_artist.is_meme_verified,
+            memeVerified: result.primary_artist.is_meme_verified,
 
             /**
              * Whether or not the artist is verified on Genius
