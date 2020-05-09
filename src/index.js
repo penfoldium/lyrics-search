@@ -6,7 +6,7 @@ const fetch = require('node-fetch');
  * @author Penfoldium
  * @license MIT
  */
-module.exports = class lyrics_search {
+class lyrics_search {
 
     /** @param {string} token Genius API Access Token */
     constructor(token) {
@@ -196,3 +196,5 @@ class Response {
         }
     }
 }
+
+module.exports = lyrics_search;

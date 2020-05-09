@@ -1,6 +1,6 @@
 {
   "name": "@penfoldium/lyrics-search",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A package to search for song lyrics on Genius",
   "main": "src/index.js",
   "repository": {
@@ -9,11 +9,11 @@
   },
   "keywords": [
     "lyrics",
-    "song",
-    "lyrics",
     "genius",
-    "lyrics",
-    "search"
+    "song-lyrics",
+    "genius-lyrics",
+    "lyrics-search",
+    "lyrics-lookup"
   ],
   "author": "Penfoldium",
   "license": "MIT",
