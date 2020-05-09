@@ -14,7 +14,7 @@ We use the [Genius API](https://genius.com/developers) for the actual search and
 ```js
 const lyrics_search = require('@penfoldium/lyrics-search');
 
-const Lyrics= new lyrics_search('Genius Access Token');
+const Lyrics = new lyrics_search('Genius Access Token');
 
 const sickoMode = `She's in love with who I am
 Back in high school, I used to bus it to the dance (Yeah)`; // Because we used backticks we can have new lines between the strings!
