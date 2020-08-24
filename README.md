@@ -1,4 +1,5 @@
 # 🔍 lyrics-search
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/penfoldium/lyrics-search.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/penfoldium/lyrics-search/context:javascript)
 
 ## 🤔 How does it work?
 We use the [Genius API](https://genius.com/developers) for the actual search and then we scrape the lyrics from the Genius page of the song, because their API does not return the lyrics.
